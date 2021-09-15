@@ -1,5 +1,9 @@
 # Tableau_CitiBike
 
+Link to dashboard: https://public.tableau.com/app/profile/william.serene/viz/CitiBike_analytics_V3/StationRidership
+
+Highlights from Analyses:
+
 Peak Ride Hours & Annual Totals. The impact from COVID-19 is reflected in the dip in rides from 2019 to 2020. 
 
 ![Tableau1](https://user-images.githubusercontent.com/79114121/133503419-9525aba6-73d0-47ba-a7c3-22b358cdd33c.png)
