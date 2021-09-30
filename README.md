@@ -1,8 +1,12 @@
-# Tableau_CitiBike
+# Tableau CitiBike
+
+## About
+
+This project centers on the development of a sophisticated Tableau dashboard built to analyze and unveil notable ridership trends in CitiBike data.
 
 Link to dashboard: https://public.tableau.com/app/profile/william.serene/viz/CitiBike_analytics_V3/StationRidership
 
-Highlights from Analyses:
+### Highlights from Analyses:
 
 Peak Ride Hours & Annual Totals. The impact from COVID-19 is reflected in the dip in rides from 2019 to 2020. 
 
